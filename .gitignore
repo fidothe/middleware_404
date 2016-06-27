@@ -1,0 +1,4 @@
+/db/middleware_404_development
+/db/middleware_404_test
+/public/assets*
+/tmp
